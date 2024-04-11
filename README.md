@@ -1,4 +1,4 @@
-# Patna-Car-Rental
+#MCA FINAL YEAR PROJECT 2024 ( PARUL UNIVERSITY )
 Online Car Rental Management System 
 
 This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
@@ -21,3 +21,5 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 > - Booking Summary
 <img src="/Screenshots/bookings.png" width="800" height="450" alt="booking_summary"/>
+
+ BY - Aum Shukla 
